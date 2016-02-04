@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DUB Photography]]></title>
+        <description><![CDATA[DUB Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Feb 2016 09:34:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scarf Play In Shanghai]]></title>
+            <description><![CDATA[<article><h1>Scarf Play In Shanghai</h1><p>Practicing some poses in natural light, cloudy day</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/51195cd1aa21508a6b1dc995b36e2ac4aa90140e.jpg"></article>]]></description>
+            <link>undefinedscarf-play-in-shanghai/index.html</link>
+            <guid isPermaLink="false">ee8d31ef-cfcd-4ce5-9331-dd152ba3d515</guid>
+            <pubDate>Thu, 04 Feb 2016 09:34:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
