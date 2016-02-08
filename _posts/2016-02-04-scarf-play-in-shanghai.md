@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Practicing some poses in natural light, cloudy day'
-datePublished: '2016-02-05T10:18:45.850Z'
-dateModified: '2016-02-05T10:18:40.053Z'
+datePublished: '2016-02-08T08:42:53.852Z'
+dateModified: '2016-02-05T11:41:47.786Z'
 title: Scarf Play In Shanghai
 author: []
 sourcePath: _posts/2016-02-04-scarf-play-in-shanghai.md
